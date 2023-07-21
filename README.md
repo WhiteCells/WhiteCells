@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=00000000)
 
-![Eorys's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCells&show_icons=red&bg_color=00000000)
+![Eorys's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCells&show_icons=true&bg_color=00000000&theme=bear)
 
 <!--
 
