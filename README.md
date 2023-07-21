@@ -1,4 +1,9 @@
-### 👋 Hi there 
+### 👋 Hi there
+
+<!-- 活动统计 -->
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=WhiteCells&theme=xcode" />
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=00000000&theme=bear&hide=batchfile,html)
 
@@ -25,3 +30,6 @@
 <a href="https://github.com/WhiteCells/WhiteCells.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=WhiteCells.github.io&bg_color=00000000&theme=bear" />
 </a>
+
+<!-- 随机名言 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
