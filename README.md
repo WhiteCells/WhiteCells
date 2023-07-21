@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCells&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=github-readme-stats)](https://github.com/WhiteCells/Note)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=Note)](https://github.com/WhiteCells/Note)
