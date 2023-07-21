@@ -29,3 +29,7 @@ jobs:
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          # GH_TOKEN 需要在 Setting => Developer Settings => Personal access tokens (classic) => 生成一个token，复制 token
+          # 再在当先库下 Setting => Secrets and variable => Action => New repository secret
+          # 名字需要和 secrets.GH_TOKEN, secret 后后的名称一样，secret 内容填写生成 token
+          # 也要在当前库下 Setting => General => Workflow permissions 先择读写权限 Read and write permissions
