@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 	
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=COLOR2)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true)
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCells&show_icons=true&theme=radical)
 
