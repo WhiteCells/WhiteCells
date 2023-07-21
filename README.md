@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&theme=bear&hide=batchfile,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=00000000&theme=bear&hide=batchfile,html)
 
 ![Eorys's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCells&show_icons=true&bg_color=00000000&theme=bear)
 
@@ -20,8 +20,8 @@
 -->
 
 <a href="https://github.com/WhiteCells/Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=Note&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=Note&bg_color=00000000&theme=bear" />
 </a>
 <a href="https://github.com/WhiteCells/WhiteCells.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=WhiteCells.github.io&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=WhiteCells.github.io&bg_color=00000000&theme=bear" />
 </a>
