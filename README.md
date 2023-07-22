@@ -37,6 +37,3 @@
 <a href="https://github.com/WhiteCells/WhiteCells.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=WhiteCells.github.io&bg_color=00000000&theme=bear" />
 </a>
-<a href="https://github.com/WhiteCells/WhiteCells.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=WhiteCells.github.io&bg_color=00000000&theme=bear" />
-</a>
