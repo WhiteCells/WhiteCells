@@ -31,7 +31,7 @@
 
 -->
 
-<a href="https://github.com/WhiteCells/Note">
+<a href="https://github.com/WhiteCells/endless-note">
   <img align="center" src="https://github-readme-stats-ten-topaz-80.vercel.app/api/pin/?username=WhiteCells&repo=endless-note&bg_color=00000000&theme=bear&hide_border=true" />
 </a>
 <!-- <a href="https://github.com/WhiteCells/WhiteCells.github.io">
