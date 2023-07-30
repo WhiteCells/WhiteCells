@@ -11,7 +11,7 @@
 </picture>
 
 <!--语言使用-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=00000000&theme=bear&hide=batchfile,html&hide_border=true)
+![Top Langs](github-readme-stats-ten-topaz-80.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=00000000&theme=bear&hide=batchfile,html&hide_border=true)
 
 <!-- github 提交等状态 -->
 ![Eorys's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCells&show_icons=true&bg_color=00000000&theme=bear&hide_border=true)
