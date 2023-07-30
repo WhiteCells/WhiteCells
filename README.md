@@ -32,8 +32,9 @@
 -->
 
 <a href="https://github.com/WhiteCells/Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=Note&bg_color=00000000&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=endless-note&bg_color=00000000&theme=bear" />
 </a>
-<a href="https://github.com/WhiteCells/WhiteCells.github.io">
+<!-- <a href="https://github.com/WhiteCells/WhiteCells.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=WhiteCells.github.io&bg_color=00000000&theme=bear" />
 </a>
+ -->
