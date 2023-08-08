@@ -3,7 +3,7 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;)](https://git.io/typing-svg)
 -->
-
+<!--
 <table border="0" align="center" cellspacing="0">
     <tr>
         <th>&nbsp;&nbsp;Property&nbsp;&nbsp;</th>
@@ -46,7 +46,7 @@
         </td>
     </tr>
 </table>
-
+-->
 <!--
 | Property | Data
 |:--:|:--:|
