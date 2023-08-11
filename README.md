@@ -60,7 +60,7 @@
 | **OS**         | ![Windows badge](https://img.shields.io/badge/-Windows-white?style=plastic&logo=windows&logoColor=007ec6) ![](https://img.shields.io/badge/-Ubuntu-white?style=plastic&logo=ubuntu)
 -->
 
-### Languages and Tools
+## Languages and Tools
 
 ![My Skills](https://skillicons.dev/icons?i=c)
 ![My Skills](https://skillicons.dev/icons?i=cpp)
@@ -79,7 +79,7 @@
 ![My Skills](https://skillicons.dev/icons?i=visualstudio)
 ![My Skills](https://skillicons.dev/icons?i=vscode)
 
-### Github Stats
+## Github Stats
 <!-- 贪吃蛇 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WhiteCells/WhiteCells/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -88,12 +88,13 @@
 </picture>
 
 <!--语言使用-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCells&layout=compact&theme=bear&bg_color=00000000&count_private=true&hide_border=true&hide=batchfile,html)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=00000000&theme=bear&hide=batchfile,html&hide_border=true)
 
 <!-- github 提交等状态 -->
 ![Eorys's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCells&show_icons=true&bg_color=00000000&theme=bear&hide_border=true)
 
-### Projects
+## Projects
 <!--横向仓库  -->
 <a href="https://github.com/WhiteCells/endless-note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=endless-note&bg_color=00000000&theme=bear&hide_border=true" />
