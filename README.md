@@ -1,8 +1,11 @@
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Eorys+%F0%9F%98%B8" alt="Typing SVG" /></a>
+</p>
 
-<!--循环字幕-->
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;)](https://git.io/typing-svg)
--->
+<p align="center">
+  <a href="https://github.com/LiLittleCat"><img src="https://img.shields.io/badge/Always%20Be-Coding-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/LiLittleCat"><img src="https://komarev.com/ghpvc/?username=WhiteCells&color=brightgreen&style=for-the-badge"/></a>
+</p>
 <!--
 <table border="0" align="center" cellspacing="0">
     <tr>
@@ -57,6 +60,26 @@
 | **OS**         | ![Windows badge](https://img.shields.io/badge/-Windows-white?style=plastic&logo=windows&logoColor=007ec6) ![](https://img.shields.io/badge/-Ubuntu-white?style=plastic&logo=ubuntu)
 -->
 
+### Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=c)
+![My Skills](https://skillicons.dev/icons?i=cpp)
+![My Skills](https://skillicons.dev/icons?i=js)
+![My Skills](https://skillicons.dev/icons?i=py)
+![My Skills](https://skillicons.dev/icons?i=java)
+![My Skills](https://skillicons.dev/icons?i=git)
+![My Skills](https://skillicons.dev/icons?i=vim)
+![My Skills](https://skillicons.dev/icons?i=github)
+![My Skills](https://skillicons.dev/icons?i=gitlab)
+![My Skills](https://skillicons.dev/icons?i=godot)
+![My Skills](https://skillicons.dev/icons?i=linux)
+![My Skills](https://skillicons.dev/icons?i=docker)
+![My Skills](https://skillicons.dev/icons?i=md)
+![My Skills](https://skillicons.dev/icons?i=mysql)
+![My Skills](https://skillicons.dev/icons?i=visualstudio)
+![My Skills](https://skillicons.dev/icons?i=vscode)
+
+### Github Stats
 <!-- 贪吃蛇 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WhiteCells/WhiteCells/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -70,6 +93,7 @@
 <!-- github 提交等状态 -->
 ![Eorys's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCells&show_icons=true&bg_color=00000000&theme=bear&hide_border=true)
 
+### Projects
 <!--横向仓库  -->
 <a href="https://github.com/WhiteCells/endless-note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=endless-note&bg_color=00000000&theme=bear&hide_border=true" />
