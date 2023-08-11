@@ -1,4 +1,11 @@
-<img width="100" alt="图片" src="https://user-images.githubusercontent.com/46156734/148928475-b5b340b7-241d-4ddc-8155-70d98c6384a9.png">
+<p>
+<a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=EF99B8&vCenter=true&repeat=false&width=180&lines=Hi%2C+I+am+Eorys" alt="Typing SVG" />
+<a>
+ <img width="100" alt="图片" src="https://user-images.githubusercontent.com/46156734/148928475-b5b340b7-241d-4ddc-8155-70d98c6384a9.png">
+</a>
+</p>
+
 
 <!-- 打字机效果 -->
 <!--
@@ -52,10 +59,11 @@
 <a href="https://github.com/WhiteCells/endless-note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=endless-note&bg_color=00000000&theme=bear&hide_border=true" />
 </a>
-<!-- <a href="https://github.com/WhiteCells/WhiteCells.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=WhiteCells.github.io&bg_color=00000000&theme=bear" />
+<!--
+<a href="https://github.com/WhiteCells/WhiteCells.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCells&repo=WhiteCells.github.io&bg_color=00000000&theme=bear&hide_border=true" />
 </a>
- -->
+-->
 
  <!-- 浏览统计 -->
 ![counter](https://moe-counter.glitch.me/get/@WhiteCells?theme=rule34)
