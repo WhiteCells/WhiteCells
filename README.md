@@ -1,25 +1,10 @@
 <p>
-<a>
- <img src="https://readme-typing-svg.demolab.com?font=Forte&size=26&duration=3000&pause=1000&color=EF99B8&center=true&vCenter=true&repeat=false&width=180&lines=Hi%2C+I+am+Eorys" alt="Typing SVG" />
-<a>
- <img width="100" alt="图片" src="https://user-images.githubusercontent.com/46156734/148928475-b5b340b7-241d-4ddc-8155-70d98c6384a9.png">
-</a>
+ <a>
+  <img src="https://readme-typing-svg.demolab.com?font=Forte&size=26&duration=3000&pause=1000&color=EF99B8&center=true&vCenter=true&repeat=false&width=180&lines=Hi%2C+I+am+Eorys" alt="Typing SVG" />
+ <a>
+  <img width="100" src="https://user-images.githubusercontent.com/46156734/148928475-b5b340b7-241d-4ddc-8155-70d98c6384a9.png">
+ </a>
 </p>
-
-
-<!-- 打字机效果 -->
-<!--
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Eorys+%F0%9F%98%B8" alt="Typing SVG" /></a>
-</p>
--->
-<!-- badge -->
-<!--
-<p align="center">
-  <img src="https://img.shields.io/badge/Always%20Be-Coding-blue?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=WhiteCells&color=brightgreen&style=for-the-badge"/>
-</p>
--->
 
 ## Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=c)
