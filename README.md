@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LiLittleCat"><img src="https://img.shields.io/badge/Always%20Be-Coding-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/LiLittleCat"><img src="https://komarev.com/ghpvc/?username=WhiteCells&color=brightgreen&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/Always%20Be-Coding-blue?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=WhiteCells&color=brightgreen&style=for-the-badge"/>
 </p>
 <!--
 <table border="0" align="center" cellspacing="0">
