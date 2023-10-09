@@ -42,8 +42,8 @@
 
 ## Projects
 <!--横向仓库  -->
-<a href="https://github.com/WhiteCells/endless-note">
-  <img align="center" src="https://github-readme-jade.vercel.app/api/pin/?username=WhiteCells&repo=endless-note&bg_color=00000000&theme=bear&hide_border=true" />
+<a href="https://github.com/WhiteCells/note_">
+  <img align="center" src="https://github-readme-jade.vercel.app/api/pin/?username=WhiteCells&repo=note_&bg_color=00000000&theme=bear&hide_border=true" />
 </a>
 <!--
 <a href="https://github.com/WhiteCells/WhiteCells.github.io">
