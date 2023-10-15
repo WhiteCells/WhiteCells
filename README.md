@@ -3,7 +3,7 @@
   <img width="100" src="https://pic.bibiu.cc/2023/08/12/64d730c19f0e1.png">
  </a>
  <a>
-  <img src="https://readme-typing-svg.demolab.com?font=Forte&size=26&duration=3000&pause=1000&color=EF99B8&center=true&vCenter=true&repeat=false&width=220&lines=Hi%2C+I+am+Eorys" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Forte&size=26&duration=3000&pause=1000&color=EF99B8&vCenter=true&repeat=false&width=220&lines=Hi" alt="Typing SVG" />
  </a>
 </p>
 
