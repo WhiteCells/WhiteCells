@@ -8,24 +8,7 @@
 </p>
 
 <h2>Languages and Tools</h2>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,py,java,git,vim,github,gitlab,godot,linux,docker,md,mysql,visualstudio,vscode">
-<!--     <img src="https://skillicons.dev/icons?i=c">
-<img src="https://skillicons.dev/icons?i=cpp">
-<img src="https://skillicons.dev/icons?i=js">
-<img src="https://skillicons.dev/icons?i=py">
-<img src="https://skillicons.dev/icons?i=java">
-<img src="https://skillicons.dev/icons?i=git">
-<img src="https://skillicons.dev/icons?i=vim">
-<img src="https://skillicons.dev/icons?i=github">
-<img src="https://skillicons.dev/icons?i=gitlab">
-<img src="https://skillicons.dev/icons?i=godot">
-<img src="https://skillicons.dev/icons?i=linux">
-<img src="https://skillicons.dev/icons?i=docker">
-<img src="https://skillicons.dev/icons?i=md">
-<img src="https://skillicons.dev/icons?i=mysql">
-<img src="https://skillicons.dev/icons?i=visualstudio">
-<img src="https://skillicons.dev/icons?i=vscode"> -->
-
+<img src="https://skillicons.dev/icons?i=c,cpp,cmake,js,py,java,git,vim,github,gitlab,godot,linux,docker,md,mysql,visualstudio,vscode">
 
 <h2>Github Stats</h2>
 <!-- 贪吃蛇 -->
@@ -46,9 +29,10 @@
 <a href="https://github.com/WhiteCells/docs">
     <img align="center" src="https://github-readme-jade.vercel.app/api/pin/?username=WhiteCells&repo=docs&bg_color=00000000&theme=bear&hide_border=true" />
 </a>
-<!-- <a href="https://github.com/WhiteCells/docs">
-    <img align="center" src="https://github-readme-jade.vercel.app/api/pin/?username=WhiteCells&repo=docs&bg_color=00000000&theme=bear&hide_border=true" />
-</a> -->
+
+<a href="https://github.com/WhiteCells/hello-cmake">
+    <img align="center" src="https://github-readme-jade.vercel.app/api/pin/?username=WhiteCells&repo=hello-cmake&bg_color=00000000&theme=bear&hide_border=true" />
+</a>
 
 <!-- 浏览统计 -->
 <img src="https://moe-counter.glitch.me/get/@WhiteCells?theme=rule34">
