@@ -12,11 +12,11 @@
 
 <h2>Github Stats</h2>
 <!-- 贪吃蛇 -->
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WhiteCells/WhiteCells/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WhiteCells/WhiteCells/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/WhiteCells/WhiteCells/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+</picture> -->
 
 <!--语言使用-->
 <img src="https://github-readme-jade.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=00000000&theme=bear&hide=batchfile,html&hide_border=true">
