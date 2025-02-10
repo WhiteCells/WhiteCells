@@ -1,7 +1,7 @@
 <p>
-<!--     <a>
+    <a>
         <img width="100" src="https://s1.vika.cn/space/2023/11/08/5991db9f3a50433bb1147ab51eebceb8">
-    </a> -->
+    </a>
     <a>
         <img src="https://readme-typing-svg.demolab.com?font=Forte&size=26&duration=3000&pause=1000&color=EF99B8&vCenter=true&repeat=false&width=220&lines=Hi" alt="Typing SVG" />
     </a>
@@ -37,4 +37,4 @@
 <br>
 <br>
 <!-- 浏览统计 -->
-<!-- <img src="https://moe-counter.glitch.me/get/@WhiteCells?theme=rule34"> -->
+<img src="https://moe-counter.glitch.me/get/@WhiteCells?theme=rule34">
