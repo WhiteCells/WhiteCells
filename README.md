@@ -27,7 +27,7 @@
 <h2>Projects</h2>
 <!--横向仓库  -->
 <a href="https://github.com/WhiteCells/docs">
-    <img align="center" src="https://github-readme-jade.vercel.app/api/pin/?username=WhiteCells&repo=docs&bg_color=00000000&theme=bear&hide_border=true" />
+    <img align="center" src="https://github-readme-jade.vercel.app/api/pin/?username=WhiteCells&repo=docs&bg_color=00000000&theme=bear&hide_border=true&hide=javascript,html" />
 </a>
 
 <a href="https://github.com/WhiteCells/hello-cmake">
