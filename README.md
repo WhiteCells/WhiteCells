@@ -23,7 +23,7 @@
 </picture> -->
 
 <!--语言使用-->
-<img src="https://github-readme-jade.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=00000000&theme=bear&hide=javascript,batchfile,html,css&hide_border=true" />
+<img src="https://github-readme-jade.vercel.app/api/top-langs/?username=WhiteCells&langs_count=8&show_icons=true&bg_color=00000000&theme=bear&hide=vue,javascript,batchfile,html,css&hide_border=true" />
 
 <!-- github 提交等状态 -->
 <!-- <img src="https://github-readme-jade.vercel.app/api?username=WhiteCells&show_icons=true&bg_color=00000000&theme=bear&hide_border=true"> -->
