@@ -12,9 +12,9 @@
 ### ✨ Welcome to My GitHub
 
 ### 🛠 Languages and Tools
-<img src="https://skillicons.dev/icons?i=c,cpp,cmake,go,py,anaconda,git,vim,github,gitlab,godot,linux,bash,docker,md,mysql,vscode,visualstudio,arch">
+<img src="https://skillicons.dev/icons?i=c,cpp,cmake,go,py,anaconda,git,vim,godot,linux,bash,docker,md,mysql,vscode,visualstudio,arch">
 
-### 🧩 Github Stats
+### 🧩 Github State
 <!-- 贪吃蛇 -->
 <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WhiteCells/WhiteCells/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
