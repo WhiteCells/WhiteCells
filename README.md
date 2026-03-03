@@ -43,4 +43,5 @@
 ### 👀 View
 <!-- 浏览统计 -->
 <!-- <img src="https://moe-counter.glitch.me/get/@WhiteCells?theme=rule34"> -->
-<img src="https://moe-counter.glitch.me/get/@WhiteCells?theme=capoo-2">
+<!-- https://count.getloli.com/ -->
+<img src="https://count.getloli.com/get/@WhiteCells?theme=capoo-2">
