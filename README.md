@@ -12,7 +12,8 @@
 ### ✨ Welcome to My GitHub
 
 ### 🛠 Languages and Tools
-<img src="https://skillicons.dev/icons?i=c,cpp,cmake,go,py,anaconda,git,vim,godot,linux,bash,docker,md,mysql,vscode,visualstudio,arch">
+<!-- <img src="https://skillicons.dev/icons?i=c,cpp,cmake,go,py,anaconda,git,vim,godot,linux,bash,docker,md,mysql,vscode,visualstudio,arch"> -->
+<img src="https://skillicons.dev/icons?i=c,cpp,go,py,linux">
 
 ### 🧩 Github State
 <!-- 贪吃蛇 -->
